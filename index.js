@@ -14,7 +14,7 @@ server.use(bodyParser.json());
 
 // setting up post Routwer
 server.use('/api/post/' ,jwtAuth , productRouter);
-server.use('/api/user/' , userRouter)
+server.use('/api/user/' , userRouter);
 
 // setting default
 server.get('/' , (req , res) =>{
