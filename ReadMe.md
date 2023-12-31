@@ -109,8 +109,6 @@ To get started with the **Postaway** social media project, follow these steps to
 
    ```bash
    https://github.com/VoidMain0xx/Social-Media-API-I.git
-
-
 ## Conclusion
 
 The "Postaway" social media project aims to provide a comprehensive and user-friendly platform for social interaction and content sharing. The implemented features and additional functionality enhance the overall user experience.
