@@ -1,0 +1,3 @@
+Post Controller
+Create Post 
+Get All PostS
