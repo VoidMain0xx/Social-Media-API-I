@@ -39,7 +39,7 @@ A custom error class is created to set status codes and error messages. An error
 
 ### 7. Authentication Tokens
 
-Json Web Tokens (JWT) are used to create, verify, and manage authentication tokens. All application routes are secured using JWT, excluding the user routes.
+Json Web Tokens (JWT) are used to create, verify, and manage authentication tokens. All application routes are secured using JWT, excluding the user routes. 
 
 ### 8. File Upload
 
